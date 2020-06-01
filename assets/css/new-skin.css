@@ -1,15 +1,3 @@
-/**
-*	Ryan - Resume/CV/vCard Template (HTML)
-*	Version: 2.0
-*	Author: beshleyua
-*	Author URL: http://themeforest.net/user/beshleyua
-*	Copyright © Cvio by beshleyua. All Rights Reserved.
-**/
-
-/*
-	New Skin
-*/
-
 body {
 	font-size: 16px;
 	color: #646464;
@@ -175,108 +163,6 @@ body {
 	padding-bottom: 20px;
 }
 
-@media (max-width: 1199px) {
-	.row .col.col-t-12 {
-		width: 99.996%;
-	}
-
-	.row .col.col-t-11 {
-		width: 91.663%;
-	}
-
-	.row .col.col-t-10 {
-		width: 83.333%;
-	}
-
-	.row .col.col-t-9 {
-		width: 74.997%;
-	}
-
-	.row .col.col-t-8 {
-		width: 66.664%;
-	}
-
-	.row .col.col-t-7 {
-		width: 58.331%;
-	}
-
-	.row .col.col-t-6 {
-		width: 49.998%;
-	}
-
-	.row .col.col-t-5 {
-		width: 41.665%;
-	}
-
-	.row .col.col-t-4 {
-		width: 33.332%;
-	}
-
-	.row .col.col-t-3 {
-		width: 24.999%;
-	}
-
-	.row .col.col-t-2 {
-		width: 16.666%;
-	}
-
-	.row .col.col-t-1 {
-		width: 8.333%;
-	}
-
-}
-
-@media (max-width: 560px) {
-	.row .col.col-m-12 {
-		width: 99.996%;
-	}
-
-	.row .col.col-m-11 {
-		width: 91.663%;
-	}
-
-	.row .col.col-m-10 {
-		width: 83.333%;
-	}
-
-	.row .col.col-m-9 {
-		width: 74.997%;
-	}
-
-	.row .col.col-m-8 {
-		width: 66.664%;
-	}
-
-	.row .col.col-m-7 {
-		width: 58.331%;
-	}
-
-	.row .col.col-m-6 {
-		width: 49.998%;
-	}
-
-	.row .col.col-m-5 {
-		width: 41.665%;
-	}
-
-	.row .col.col-m-4 {
-		width: 33.332%;
-	}
-
-	.row .col.col-m-3 {
-		width: 24.999%;
-	}
-
-	.row .col.col-m-2 {
-		width: 16.666%;
-	}
-
-	.row .col.col-m-1 {
-		width: 8.333%;
-	}
-
-}
-
 .border-line-v:before {
 	left: -1px;
 	background: -moz-radial-gradient(top, ellipse cover, #dddddd 0%, rgba(255, 255, 255, 0) 70%);
@@ -379,7 +265,7 @@ input[type="submit"] {
 input:focus,
 textarea:focus {
 	color: #323232;
-	border: 2px solid #78cc6d;
+	border: 2px solid #cdcf08;
 }
 
 input.error,
@@ -701,7 +587,7 @@ input[type="file"] {
 	position: relative;
 	margin: 0;
 	display: inline-block;
-	color: #78cc6d;
+	color: #cdcf08;
 	font-size: 16px;
 	line-height: 20px;
 	height: 20px;
@@ -828,12 +714,12 @@ input[type="file"] {
 }
 
 .content .title .first-word {
-	color: #78cc6d;
+	color: #cdcf08;
 }
 
 .content .title::first-letter,
 .content .title .first-letter::first-letter {
-	color: #78cc6d;
+	color: #cdcf08;
 }
 
 .content .post-comments .title .first-word {
@@ -941,7 +827,7 @@ input[type="file"] {
 	float: left;
 	margin-right: 8px;
 	padding: 1px 8px;
-	background: #78cc6d;
+	background: #cdcf08;
 	font-size: 14px;
 	line-height: 20px;
 	color: #fefefe;
@@ -1046,7 +932,7 @@ input[type="file"] {
 }
 
 .resume-items .resume-item.active .date {
-	border-color: #78cc6d;
+	border-color: #cdcf08;
 }
 
 .resume-items .resume-item .date {
@@ -1219,7 +1105,7 @@ input[type="file"] {
 }
 
 .box-item:hover .desc .name {
-	color: #78cc6d;
+	color: #cdcf08;
 }
 
 @media (max-width: 560px) {
